@@ -1,7 +1,6 @@
 Benvenuti su questo blog gestito da un viaggiatore e che vuole riunire appassionati di confronti onesti e garbati
 
-![immagine creata da AI](images/)
+![immagine creata da AI](images/file-bpL0PFdzCLNuCSmmO6qfHMqH (1).webp)
 
-## This is a title
+## Quelli del non senso
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
