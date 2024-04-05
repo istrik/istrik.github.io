@@ -1,6 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Benvenuti su questo blog gestito da un viaggiatore e che vuole riunire appassionati di confronti onesti e garbati
 
-![Image of fast.ai logo](images/logo.png)
+![immagine creata da AI](images/)
 
 ## This is a title
 
