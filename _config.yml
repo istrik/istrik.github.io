@@ -50,7 +50,7 @@ kramdown:
 
     ## Utterances
     enableUtterances = true
-    utterancesRepo = "earvingad/earvingad.github.io"
+    utterancesRepo = "istrik.github.io"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
     utterancesThemeDark = "photon-dark"
