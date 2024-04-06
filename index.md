@@ -1,4 +1,4 @@
-Benvenuti su questo blog gestito da un viaggiatore e che vuole riunire appassionati di confronti onesti e garbati
+Benvenuti su questo blog
 
 ![logo](images/ilnonsensologo.jpg)
 
