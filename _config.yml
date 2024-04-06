@@ -21,10 +21,10 @@ use_math: true
 google_analytics:
 
 # Note: render only in production environment
-enableComments = true
+  enableComments = true
 
 # directly load the comments after pages loaded
-autoLoadComments = true
+  autoLoadComments = true
 
 --*- Snip -*--
 
