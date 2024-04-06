@@ -41,3 +41,18 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+    # Note: render only in production environment
+    enableComments = true
+    # directly load the comments after pages loaded
+    autoLoadComments = true
+
+ --*- Snip -*--
+
+    ## Utterances
+    enableUtterances = true
+    utterancesRepo = "earvingad/earvingad.github.io"
+    utterancesIssueTerm = "pathname"
+    utterancesTheme = "github-light"
+    utterancesThemeDark = "photon-dark"
+    utterancesLabel = ""
+    # Note: https://utteranc.es/
