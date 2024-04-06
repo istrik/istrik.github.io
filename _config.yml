@@ -7,22 +7,6 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Quelli del non-senso
-description: Happy blogging... ❤
-
-{{ .Content }}
-  </article>
-
-  <script src="https://utteranc.es/client.js"
-    repo="istrik/istrik.github.io"
-    issue-term="pathname"
-    label="<Commenti>"
-    theme="dark-blue"
-    crossorigin="anonymous"
-    async>
-  </script>
-
-  {{- partial "social.html" . -}}
-
 # Set this to true to get LaTeX math equation support
 use_math: true
 
