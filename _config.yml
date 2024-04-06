@@ -20,23 +20,6 @@ use_math: true
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
-# Note: render only in production environment
-  enableComments = true
-
-# directly load the comments after pages loaded
-  autoLoadComments = true
-
---*- Snip -*--
-
-## Utterances
-enableUtterances = true
-utterancesRepo = "istrik/istrik.github.io" # Change the repository to match your GitHub username and repo
-utterancesIssueTerm = "pathname"
-utterancesTheme = "github-light"
-utterancesThemeDark = "photon-dark"
-utterancesLabel = ""
-# Note: https://utteranc.es/
-
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
 plugins:
